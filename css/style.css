@@ -320,10 +320,10 @@ a:focus {
 }
 
 .header p {
-    color: #1398e2;
+    color: #999;
     font-size: 22px;
     font-weight: 600;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 .header h1 {
@@ -337,7 +337,7 @@ a:focus {
     margin: 0;
     height: 25px;
     font-size: 25px;
-	color: #b5b5b5;
+	color: #1398e2;
 }
 
 .header .typed-text {
